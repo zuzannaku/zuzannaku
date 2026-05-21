@@ -1,4 +1,4 @@
-# Hi, I'm Zuzanna 👋
+# Hi, I'm Zuzanna
 
 I like taking messy, complicated things and making them make sense.
 
