@@ -26,15 +26,32 @@ Most of my projects sit at the intersection of **data, product thinking, and use
 
 **Languages**
 
-Python • SQL • R
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r" />
+</p>
+
 
 **Data**
 
-PySpark • Databricks • Streamlit • Excel
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks" height="48"/>
+</p>
+
 
 **Tools**
 
-Git • GitHub • Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode,figma" />
+</p>
+
+**Also:** Streamlit • Databricks • PySpark • Excel
 
 ---
 
