@@ -22,29 +22,6 @@ Most of my projects sit at the intersection of **data, product thinking, and use
 
 ---
 
-## Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r" />
-</p>
-
-
-**Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks" height="48"/>
-</p>
-
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
 ### Tech Stack
 
 <p align="left">
